@@ -1,9 +1,15 @@
+<p align="center">
+    <a href="https://chevereto.com"><img alt="Chevereto" src="chevereto.svg" width="80%"></a>
+</p>
+
 [![chevereto-ultimate-remix](https://github.com/chevereto/.github/assets/20590102/9212b6ba-f8aa-4844-b144-9dea755f96a0)](https://chevereto.com)
 
 [![Chevereto Docs](https://img.shields.io/badge/chevereto-docs-50C878?style=flat-square)](https://v4-docs.chevereto.com/)
 [![Chevereto Community](https://img.shields.io/badge/chevereto-community-blue?style=flat-square)](https://chevereto.com/community)
 [![Chevereto Discord](https://img.shields.io/badge/chevereto-discord-5865F2?style=flat-square)](https://chevereto.com/go/discord)
 [![Chevereto Demo](https://img.shields.io/badge/chevereto-demo-d4af37?style=flat-square)](https://demo.chevereto.com)
+
+> 🔔 [Subscribe](https://chv.to/newsletter) to don't miss any update regarding Chevereto.
 
 # Welcome to Chevereto!
 
