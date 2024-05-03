@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://chevereto.com"><img alt="Chevereto" src="chevereto.svg" width="80%"></a>
+    <a href="https://chevereto.com"><img alt="Chevereto" src="https://raw.githubusercontent.com/chevereto/.github/main/profile/chevereto.svg" width="80%"></a>
 </p>
 
 [![chevereto-ultimate-remix](https://github.com/chevereto/.github/assets/20590102/9212b6ba-f8aa-4844-b144-9dea755f96a0)](https://chevereto.com)
